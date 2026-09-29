@@ -1,0 +1,4 @@
+/venv/
+/.tools/
+/packages/wheelhouse/
+__pycache__/
